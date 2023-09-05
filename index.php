@@ -59,7 +59,7 @@
 	<header id="head">
 		<div class="container">
 			<div class="row">
-				<h1 class="lead">BIENVENIDO A DISEÑO DE DESARROLLO DE SOFTWARE  YENIFER</h1>
+				<h1 class="lead">BIENVENIDO A DISEÑO DE DESARROLLO DE SOFTWARE</h1>
 				<p class="tagline">PROGRESSUS: plantilla de Bootstrap gratuita para negocios por <a href="http://www.gettemplate.com/?utm_source=progressus&amp;utm_medium=template&amp;utm_campaign=progressus">GetTemplate</a></p>
 				<p><a class="btn btn-default btn-lg" role="button">MÁS INFORMACIÓN</a> <a class="btn btn-action btn-lg" role="button">DESCARGAR AHORA</a></p>
 			</div>
