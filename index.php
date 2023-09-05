@@ -177,7 +177,7 @@
 				<div class="row">
 					
 					<div class="col-md-3 widget">
-						<h3 class="widget-title">Contacto</h3>
+						<h3 class="widget-title">Contactos</h3>
 						<div class="widget-body">
 							<p>+234 23 9873237<br>
 								<a href="mailto:#">some.email@somewhere.com</a><br>
